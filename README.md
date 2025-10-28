@@ -14,7 +14,8 @@ If you are reading the book in parallel, you will observe that I structured my f
 chapters covered. Here is a brief tabe of contents (materials already covered by me):
 
 1. An Overview of C++
+2. Writing User-Defined Classes with Modern C++ Features
 
 ---
-*last update: `28.10.2025 (1:21 a.m. UTC)`*
+*last update: `28.10.2025 (7:43 p.m. UTC)`*
 
