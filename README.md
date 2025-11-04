@@ -17,7 +17,8 @@ chapters covered. Here is a brief tabe of contents (materials already covered by
 1. [An Overview of C++](./01_overview/)
 2. [Writing User-Defined Classes with Modern C++ Features](./02_user_defined_classes/)
 3. [Inheritance, Polymorphism, and Smart Pointers](./03_inheritance_polymorphism_smartptrs/)
+4. [The Standard Template Library Part I: Containers and Iterators](./04_STL_containers_iterators/)
 
 ---
-*last update: `02.11.2025 (00:50 UTC)`*
+*last update: `04.11.2025 (00:56 UTC)`*
 
