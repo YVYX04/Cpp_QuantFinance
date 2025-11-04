@@ -9,7 +9,7 @@ I am building and implementing some concepts of the book. You will find this rep
 looking for modern C++ features implementation (C++17, C++20 mainly) and best practices in the quantitative
 finance field.
 
-### 2️⃣ Structure
+### 2️⃣ Table of Contents
 If you are reading the book in parallel, you will observe that I structured my files based on the different
 chapters covered. Here is a brief tabe of contents (materials already covered by me):
 
