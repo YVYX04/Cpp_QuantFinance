@@ -20,6 +20,10 @@ chapters covered. Here is a brief tabe of contents (materials already covered by
 4. [The Standard Template Library Part I: Containers and Iterators](./04_STL_containers_iterators/)
 5. [The Standard Template Library Part II: Algorithms and Ranges](./05_STL_algorithms_ranges/)
 
+[...]
+
+9. [The Boost Libraries](./09_Boost/)
+
 ---
-*last update: `04.11.2025 (18:28 UTC)`*
+*last update: `08.11.2025 (2:37 a.m. UTC)`*
 
